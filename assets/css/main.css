@@ -4134,3 +4134,9 @@ input, select, textarea {
 	padding-top: "20px";
 	margin-top: "20px";
 }
+
+.extras {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
